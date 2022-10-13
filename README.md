@@ -2,9 +2,7 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+20521266 - Bùi Thu Hà
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
