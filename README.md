@@ -2,7 +2,13 @@
 
 Participants:
 
-20521266 - Bùi Thu Hà
+Leader: 20521266 - Bùi Thu Hà
+Member: 
+20521221 - Phạm Thị Thùy Dương
+20521331 - Lê Quang Hòa
+20521381 - Kiều Xuân Diệu Hương
+
+Link: https://trello.com/invite/b/61PHvVJk/37c1335cd49740add36b9c42981dd68c/cnpm
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
