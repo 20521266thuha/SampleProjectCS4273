@@ -8,7 +8,7 @@ Member:
 20521331 - Lê Quang Hòa
 20521381 - Kiều Xuân Diệu Hương
 
-Link: https://trello.com/invite/b/61PHvVJk/37c1335cd49740add36b9c42981dd68c/cnpm
+Link: https://trello.com/invite/b/61PHvVJk/37c1335cd49740add36b9c42981dd68c/group-6-cnpm
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
